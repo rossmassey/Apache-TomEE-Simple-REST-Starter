@@ -30,6 +30,6 @@
       </plugins>
     </pluginManagement>
     <!-- name of .war file -->
-    <finalName>Hello</finalName>
+    <finalName>hello</finalName>
   </build>
 </project>
