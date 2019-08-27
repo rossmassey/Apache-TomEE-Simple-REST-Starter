@@ -12,7 +12,7 @@
 
  ### To deploy
 
- 1. Copy `Hello.war` file from `target/` into: `%CATALINA_HOME%/webapps`
+ 1. Copy `hello.war` file from `target/` into: `%CATALINA_HOME%/webapps`
 
  2. Ensure TomEE service is running
 
